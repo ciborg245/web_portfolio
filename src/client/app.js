@@ -74,7 +74,7 @@ export default class App extends React.Component {
                         <div className = {this.state.pagesClasses[0]}>
                             <div className = "intro">
                                 <div className = "name-div">
-                                    <h1 className = "name"> Alejandro Chaclan </h1>
+                                    <h1 className = "name"> Alejandro Chaclán </h1>
                                 </div>
                                 <div className = "title-div">
                                     <h3 className = "title" id = "git"
